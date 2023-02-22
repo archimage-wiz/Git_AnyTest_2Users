@@ -1,10 +1,14 @@
 
+<<<<<<< HEAD
 add some dots ...
 
 ez 2
 ez 1
 
 --
+=======
+2 my own changes ->>
+>>>>>>> f725b40b125d550990622c58675c2592c0cbe9a0
 
 c98
 c99
