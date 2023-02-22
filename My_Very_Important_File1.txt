@@ -2,6 +2,7 @@
 ---
 
 1 user conflict 1
+2 user conflict 2
 2 user conflict 1
 
 2 user 5 update
